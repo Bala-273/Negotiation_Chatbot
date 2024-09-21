@@ -11,25 +11,6 @@ This project is a **Negotiation Chatbot** designed to handle price-based negotia
 - **Price Negotiation**: Extracts user-offered prices and provides counteroffers within an acceptable range.
 - **Real-time Interaction**: Facilitates continuous conversation until an agreement is reached.
 
-## Setup
-
-1. Install dependencies:
-   ```bash
-   pip install google-generativeai textblob
-   ```
-2. Set your Gemini AI API key in the script:
-   ```python
-   api_key = "YOUR_API_KEY"
-   ```
-
-## Usage
-
-Run the script and follow the prompts to negotiate:
-
-```bash
-python negotiation_chatbot.py
-```
-
 The chatbot will engage in a conversation, analyze the sentiment of the user's input, and offer appropriate responses based on price and tone.
 
 ## Conclusion
