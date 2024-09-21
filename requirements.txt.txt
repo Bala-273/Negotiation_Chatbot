@@ -1,3 +1,0 @@
-1. Google Generative AI Python SDK
-2. TextBlob for sentiment analysis
-3. Python 3.x
