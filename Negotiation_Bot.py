@@ -1,6 +1,5 @@
 import google.generativeai as genai
 from textblob import TextBlob
-import os
 
 # Configure the Gemini AI API key
 api_key = "API_KEY"
